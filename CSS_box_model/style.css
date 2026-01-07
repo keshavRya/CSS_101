@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+.first{
+    background-color: cadetblue;
+    border: 10px solid black;
+    padding: 20px;
+
+
+}
+
+.second{
+    background-color: gold;
+    border: 10px solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+
+}
+.third{
+    background-color: indianred;
+    border: 10px solid black;
+    margin-left: 40px;
+}
+
+.first p{
+    margin: 0px;
+}
