@@ -1,0 +1,24 @@
+html{
+    background-color: black;
+}
+
+
+
+.meme img{
+    width: 60%;
+    padding: 0px;
+    margin-left: 20%;
+    border: 20px ridge wheat;
+}
+
+.meme h1{
+    color: antiquewhite;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.meme p{
+    color: antiquewhite;
+    text-align: center;
+}
